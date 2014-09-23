@@ -49,3 +49,4 @@ PLATFORMS
 DEPENDENCIES
   guard-minitest
   minitest-reporters
+  pry
